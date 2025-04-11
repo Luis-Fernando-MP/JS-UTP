@@ -122,7 +122,7 @@ const serie2 = ({ loop = true, limit = 10 }) => {
 }
 ```
 
-### Pruebas:
+### Pruebas: 
 
 ```js
 console.log(serie2({ loop: true, limit: 10 })) // 0.4196219086283417
